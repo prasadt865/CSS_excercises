@@ -5,7 +5,9 @@ There are three elements for you to add styles to, each of which uses a differen
 The properties you need to add to each element are:
 
 div: a red background, white text, a font size of 32px, center aligned, and bold
+
 p: a green background, white text, and a font size of 18px
+
 button: an orange background and a font size of 18px
 
 ![desired-outcome](https://github.com/prasadt865/CSS_excercises/assets/8504955/32500f9f-362a-4f24-847a-7531984720aa)
